@@ -1,7 +1,7 @@
 
-<a href="https://amplifr.com/?utm_source=uibook">
-  <img width="100" height="140" align="right"
-    alt="Sponsored by Amplifr" src="https://amplifr-direct.s3-eu-west-1.amazonaws.com/social_images/image/37b580d9-3668-4005-8d5a-137de3a3e77c.png" />
+<a href="https://www.facebook.com/amplifr/">
+  <img width="80" height="80" align="right"
+    alt="Sponsored by Amplifr" src="./amplifr-logo.png" style="border-radius: 100%; margin: 10px;"/>
 </a>
 
 
@@ -18,8 +18,8 @@ The Key Features:
 
 <img src="/docs/uibook.gif" align="center" alt="Uibook key features" >
 
-:triangular_flag_on_post: Check amazing Uibook example here:
-[https://amplifr.com/uikit](https://amplifr.com/uikit).
+:triangular_flag_on_post: Check the Uibook demo project here:
+[https://uibook.vrizo.net/](https://uibook.vrizo.net/#Presets:ru).
 
 ## Usage
 
